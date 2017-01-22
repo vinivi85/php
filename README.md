@@ -1,2 +1,2 @@
 # php
-curso e php da udemy
+curso de php da udemy
